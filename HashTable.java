@@ -1,5 +1,3 @@
-package pro4;
-
 /**
  * A calss which has method to perform linear and double probing hashing techniques
  * @author Bereket
